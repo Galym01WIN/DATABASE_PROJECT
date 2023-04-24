@@ -1,5 +1,7 @@
 # DATABASE_PROJECT
 
+https://www.canva.com/design/DAFhCIKZyHQ/pY4pErssOx1nNqgBdeOLeg/edit?utm_content=DAFhCIKZyHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 CREATE TABLE BOOK_SHOP(
 BOOK_SHOP_ID NUMBER(1) PRIMARY KEY,
 BOOK_SHOP_NAME VARCHAR(50),
